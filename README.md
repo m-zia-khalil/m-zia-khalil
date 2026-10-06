@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Muhammad+Zia+Khalil;AI+Engineer+in+Making;Python+%7C+ML+%7C+Deep+Learning" alt="Typing SVG" />
 </p>
 
-<img src="YOUR_GIF_LINK_HERE" align="right" width="300" alt="coding gif">
+<img src="coding.svg" align="right" width="300" alt="coding animation">
 
 ### Hi there, I'm Zia 👋
 
@@ -15,17 +15,13 @@
 
 <br clear="right">
 
-### 🏆 Trophies
+### 🏙️ My Contributions in 3D
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-zia-khalil&theme=radical&no-frame=true&column=6" alt="trophies" />
-</p>
-
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zia-khalil&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</picture>
 
 ### 🐍 Contributions
 
